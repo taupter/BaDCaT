@@ -36,6 +36,10 @@ It also provides an standard serial port to the MSX. In short, we could say that
 
 ![alt text](https://github.com/andortizg/BaDCaT/blob/master/badcats.jpg?raw=true)
 
+# Other compatible applications
+- Retroterm: https://www.pastbytes.com/retroterm/  (Thanks to @pastbytes) 
+- EMinEx (Minitel emulator using Vidéotex CEPT2 standard): https://github.com/ludosevilla/EMinEx/?tab=readme-ov-file#eng  (thanks to @ludosevilla)
+
 
 # Disclaimer
 
