@@ -10,7 +10,7 @@ It also provides an standard serial port to the MSX. In short, we could say that
     * MSX2 and higher: the TCP/IP stack runs on cartridge and telnet client on the MSX. To do this, the ducasp's telnet version has been modified 
     in order to offer the same functionality with the WiFi modem and UNAPI interfaces. This telnet version is already available on ducasp's Github.
 
-# url: https://sites.google.com/view/badcatelectronics/home
+## https://sites.google.com/view/badcatelectronics/home
 # Technical specifications:
 
     * MSX1/MSX2 (and higher) compatible.
